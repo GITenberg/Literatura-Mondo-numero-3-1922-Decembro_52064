@@ -1,0 +1,29 @@
+_repo: Literatura-Mondo-numero-3-1922-Decembro_52064
+_version: 0.0.1
+creator:
+  editor:
+    agent_name: Soros, Tivadar
+    aliases:
+    - Melas, Teo
+    - Schwartz, Teodoro
+    birthdate: 1894
+    deathdate: 1968
+    gutenberg_agent_id: '46651'
+    url: http://www.gutenberg.org/2009/agents/46651
+description: ''
+gutenberg_bookshelf: Esperanto
+gutenberg_issued: '2016-05-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52064'
+language: eo
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Esperanto literature -- Periodicals'
+- !lcc 'PM'
+- !lcsh 'Literature, Modern -- 20th century -- Periodicals'
+- GITenberg
+title: Literatura Mondo, numero 3, 1922 Decembro
+url: http://www.gutenberg.org/ebooks/52064
